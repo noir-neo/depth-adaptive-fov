@@ -1,0 +1,52 @@
+fileFormatVersion: 2
+guid: 61b843c1b0c664508bf7dd43076f5846
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: girlA_cloth
+    second: {fileID: 2100000, guid: 7215b3eae0ae24bef9e9b9fcc45d887b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: girlA_face
+    second: {fileID: 2100000, guid: dbca3a3456ea84e7ab67a08f5a1a824c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: girlA_hair
+    second: {fileID: 2100000, guid: 256d0147f5f194d33a792039f891a409, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: girlA_lofer
+    second: {fileID: 2100000, guid: 11e20a2b4503140cc936b33e425ebf43, type: 2}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: girlA_cloth
+    second: {fileID: 2800000, guid: 37fcc42325f64436abc447fccad5e6b3, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: girlA_face
+    second: {fileID: 2800000, guid: 6d78c7e98538a4d16abe1ab1ecae947b, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: girlA_hair
+    second: {fileID: 2800000, guid: 341270c9152de4279a7f9df3ccda19b8, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: girlA_lofer
+    second: {fileID: 2800000, guid: 8c8b233ed64534dc3a1436a2fdd9feb1, type: 3}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: f66ead3390398f443aa127b741826ad9, type: 3}
+  MigrateToVrm1: 1
+  RenderPipeline: 0
