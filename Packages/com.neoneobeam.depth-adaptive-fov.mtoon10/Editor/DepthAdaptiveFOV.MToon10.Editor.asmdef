@@ -1,0 +1,19 @@
+{
+    "name": "DepthAdaptiveFOV.MToon10.Editor",
+    "rootNamespace": "DepthAdaptiveFOV.MToon10.Editor",
+    "references": [
+        "GUID:e3216dcc79b326b47b307c06b99c7331",
+        "GUID:0aaf403bd13871a44b7127aef2695ff8"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

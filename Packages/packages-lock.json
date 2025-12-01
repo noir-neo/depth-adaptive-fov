@@ -1,5 +1,13 @@
 {
   "dependencies": {
+    "com.neoneobeam.depth-adaptive-fov.mtoon10": {
+      "version": "file:com.neoneobeam.depth-adaptive-fov.mtoon10",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {
+        "com.vrmc.vrm": "0.129.3"
+      }
+    },
     "com.unity.collab-proxy": {
       "version": "2.9.3",
       "depth": 0,

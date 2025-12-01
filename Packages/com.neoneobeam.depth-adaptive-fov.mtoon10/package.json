@@ -1,0 +1,14 @@
+{
+  "name": "com.neoneobeam.depth-adaptive-fov.mtoon10",
+  "version": "0.1.0",
+  "displayName": "MToon10 Depth Adaptive FOV",
+  "description": "Depth Adaptive FOV variant of MToon10 shader for VRM. Applies different FOV based on depth to reduce perspective distortion.",
+  "unity": "6000.0",
+  "dependencies": {
+    "com.vrmc.vrm": "0.129.3"
+  },
+  "author": {
+    "name": "neorin"
+  },
+  "license": "MIT"
+}
